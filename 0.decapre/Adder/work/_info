@@ -1,0 +1,305 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Donghyeon Joo\Documents\Workspace_Window\piprima\Pipirima_for_ISCA\rtl
+vAdder_24Bit
+Z1 !s100 bjAg2:YBDV@E[Ph]FHj0j1
+Z2 I50=8h4Tg2]m=ACbN4IdHz0
+Z3 VHiCl?g;iKCf_hlJWJjiP50
+Z4 dC:\Users\Donghyeon Joo\Documents\Workspace_Window\piprima\Pipirima_for_ISCA\rtl_refined_ver\Adder
+Z5 w1700021241
+Z6 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Adder24Bit.v
+Z7 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Adder24Bit.v
+L0 21
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Adder24Bit.v|
+Z10 o-work work -O0
+Z11 n@adder_24@bit
+Z12 !s108 1700443869.222000
+Z13 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Adder24Bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBarrelShifter
+Z14 !s100 ML7Son4j?:ha1GBi`>:Tg1
+Z15 IC@T`d:hn3;9Gh4MQhLR5Z0
+Z16 VHIIJ75nbkDLQY4V4zJ4_F3
+R4
+Z17 w1700022263
+Z18 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/BarrelShifter.v
+Z19 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/BarrelShifter.v
+L0 21
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/BarrelShifter.v|
+R10
+Z21 n@barrel@shifter
+Z22 !s108 1700443869.260000
+Z23 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/BarrelShifter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vComplement2s
+Z24 !s100 dY_^`jeAhiedhF=67hYTS1
+Z25 I5J^KeKllKn1?0<DEB;Y8W1
+Z26 V;hPfIX1914JFOf1TC_`RR0
+R4
+Z27 w1700022142
+Z28 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Complement2s.v
+Z29 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Complement2s.v
+L0 21
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Complement2s.v|
+R10
+Z31 n@complement2s
+Z32 !s108 1700443869.303000
+Z33 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Complement2s.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControlledIncrementor
+Z34 !s100 2zGbR[EzLK<4=H69H>9BE1
+Z35 IB;imbGoWk52G8CD>>k=^b3
+Z36 V3W0G0hS3hR_LbZfU?YAP_1
+R4
+Z37 w1700023386
+Z38 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/ControlledIncrementor.v
+Z39 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/ControlledIncrementor.v
+L0 21
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/ControlledIncrementor.v|
+R10
+Z41 n@controlled@incrementor
+Z42 !s108 1700443869.343000
+Z43 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/ControlledIncrementor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFloatingPointAdder
+Z44 IZ<4_^NVhQZI^E?HUZ?`UL3
+Z45 VYJA5hQUbn92D?EQEO9OC`0
+R4
+Z46 w1700443865
+Z47 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FloatingPointAdder.v
+Z48 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FloatingPointAdder.v
+L0 1
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FloatingPointAdder.v|
+R10
+Z50 n@floating@point@adder
+Z51 !s100 [SHik@Bh`cocEb>L[jiFl2
+Z52 !s108 1700443869.381000
+Z53 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FloatingPointAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFullAdder
+Z54 !s100 3=63n8Ln4k7CLi?_CO6b22
+Z55 IV:AI5OFQP>1n_^Ra6J91G2
+Z56 VP3b5?eM0g2XmBZJf0nIC21
+R4
+Z57 w1700018699
+Z58 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FullAdder.v
+Z59 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FullAdder.v
+L0 21
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FullAdder.v|
+R10
+Z61 n@full@adder
+Z62 !s108 1700443869.430000
+Z63 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/FullAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFullSubtractor
+Z64 !s100 :NPK?GTmVG]Ie179i8_fg3
+Z65 I?CG><O[Cg_a>oaea<Sab53
+Z66 V[W3;Ao4SM2DRj;kD7LVZh2
+R4
+Z67 w1700441915
+Z68 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Sub_Result.v
+Z69 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Sub_Result.v
+L0 57
+R8
+r1
+31
+Z70 !s108 1700443869.624000
+Z71 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Sub_Result.v|
+Z72 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Sub_Result.v|
+R10
+Z73 n@full@subtractor
+!i10b 1
+!s85 0
+!s101 -O0
+vHalfAdder
+Z74 !s100 XENjV20JSF0]=b8I?_LMU2
+Z75 I6UaZGY[Y[ifnWFgdN2e=A2
+Z76 VeR8nEjl1PTePJ96E]z`jl0
+R4
+Z77 w1700018731
+Z78 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/HalfAdder.v
+Z79 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/HalfAdder.v
+L0 21
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/HalfAdder.v|
+R10
+Z81 n@half@adder
+Z82 !s108 1700443869.469000
+Z83 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/HalfAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHalfSubtractor
+Z84 !s100 9aPzDJB[jNcM@]5acA?PW2
+Z85 I601SmY6b;bR7Y5f:0h5FV3
+Z86 V8<>fPNbEI4YzKK<Yh0VLm3
+R4
+R67
+R68
+R69
+L0 44
+R8
+r1
+31
+R70
+R71
+R72
+R10
+Z87 n@half@subtractor
+!i10b 1
+!s85 0
+!s101 -O0
+vMux
+Z88 !s100 :^jD6X>7<K_7HG1h<6>lz3
+Z89 I<nZUeh_`AG6g`1eaXZ1FG3
+Z90 V<cJcLd8@jYh@[EoXPKRb=0
+R4
+Z91 w1700018764
+Z92 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux.v
+Z93 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux.v
+L0 21
+R8
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux.v|
+R10
+n@mux
+Z95 !s108 1700443869.509000
+Z96 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux24
+Z97 !s100 =8e[hKkY`em6BCM57V=XW0
+Z98 ILl>O4Eb;0`S8=5:QieT9m3
+Z99 VhbO<1Bj7Gf<JYhiB3L9fW2
+R4
+Z100 w1700024265
+Z101 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux24.v
+Z102 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux24.v
+L0 21
+R8
+r1
+31
+Z103 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux24.v|
+R10
+Z104 n@mux24
+Z105 !s108 1700443869.585000
+Z106 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux24.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux_8
+Z107 !s100 E[[gLeoeRlbP22FEWch_C0
+Z108 I4BC?2kgVRF>K]ULVeXVU52
+Z109 V<EIY<QFL]ic_[3L:U0S_j2
+R4
+Z110 w1700024318
+Z111 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux_8.v
+Z112 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux_8.v
+L0 21
+R8
+r1
+31
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux_8.v|
+R10
+Z114 n@mux_8
+Z115 !s108 1700443869.547000
+Z116 !s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/Mux_8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSub_Result
+Z117 !s100 K07ZUZ;GB<bPUhTS1lMff1
+Z118 I1Ye2l_24Bh6V_dCNGPPA30
+Z119 VEg`fXm`_CZo:R_YkD<5C:3
+R4
+R67
+R68
+R69
+L0 1
+R8
+r1
+31
+R70
+R71
+R72
+R10
+Z120 n@sub_@result
+!i10b 1
+!s85 0
+!s101 -O0
+vSubtractor_8Bit
+Z121 !s100 aiLcRQoiVE=kR?@S40Wm^0
+Z122 IT^NcTmY4O:PBOV[^jhCbV3
+Z123 V=UikTiooSmN=PIOP7>MO02
+R4
+R67
+R68
+R69
+L0 19
+R8
+r1
+31
+R70
+R71
+R72
+R10
+Z124 n@subtractor_8@bit
+!i10b 1
+!s85 0
+!s101 -O0
+vTest
+!i10b 1
+Z125 !s100 2I3H^_5Z[GYfRU7RILJb<1
+Z126 IAXaf`Z2mNoBZ;;:3`Y60d0
+Z127 VU7RCK<DV^KITSa1^IXRKH1
+R4
+Z128 w1700443259
+Z129 8C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/tb_BC.v
+Z130 FC:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/tb_BC.v
+L0 25
+R8
+r1
+!s85 0
+31
+!s108 1700443869.679000
+!s107 C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/tb_BC.v|
+Z131 !s90 -reportprogress|300|-work|work|C:/Users/Donghyeon Joo/Documents/Workspace_Window/piprima/Pipirima_for_ISCA/rtl_refined_ver/Adder/tb_BC.v|
+!s101 -O0
+R10
+Z132 n@test
